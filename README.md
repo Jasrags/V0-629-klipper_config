@@ -1,10 +1,10 @@
-# BabbyPronter (V0-629) Klipper Config
+# BabbyPronter (V0.629) Klipper Config
 
 Klipper configs for this printer running fluidd.
 
 Most the files in /configs are from [eecue's klipper configs](https://github.com/eecue/klippper-config)
 
-![BabbyPronter (V0-629)](./images/BabbyPronter-V0-629.png)
+![BabbyPronter (V0.629)](./images/BabbyPronter-V0-629.png)
 
 Klipper configs for this printer running fluidd.
 
@@ -22,10 +22,12 @@ Changes will be noted here by date, title if needed, files changed, summary of c
 
 _**Note: only changes of signifigance will be added.**
 
+- **2021-XX-XX:** _The One Where It All Began_.
+
 # Printer Mods
 
+* [Klipper Expander](https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander)
 
 # Klipper Plugins
 
-* frame_expansion_compensation
 * gcode_shell_command
