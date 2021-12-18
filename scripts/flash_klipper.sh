@@ -2,7 +2,7 @@
 sudo service klipper stop
 cd ~/klipper
 
-# Flash MCU (Spider)
+# Flash MCU (SKR Mini E3v2)
 make clean KCONFIG_CONFIG=config.e3v2
 make menuconfig KCONFIG_CONFIG=config.e3v2
 make KCONFIG_CONFIG=config.e3v2
