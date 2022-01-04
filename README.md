@@ -1,9 +1,5 @@
 # BabbyPronter (V0.629) Klipper Config
 
-Klipper configs for this printer running fluidd.
-
-Most the files in /configs are from [eecue's klipper configs](https://github.com/eecue/klippper-config)
-
 ![BabbyPronter (V0.629)](./images/BabbyPronter-V0-629.png)
 
 Klipper configs for this printer running fluidd.
